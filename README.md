@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taha Samet ŞATSU @schatsu
-- 👀 I’m interested in web develop
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning PHP 
 
 <!---
