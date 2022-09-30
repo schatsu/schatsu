@@ -1,4 +1,4 @@
-- 👋 Merhaba, Ben Taha Samet ŞATSU @schatsu
+- 👋 Hi, I’m Taha Samet ŞATSU @schatsu
 - 👀 I’m interested in web develop
 - 🌱 I’m currently learning PHP 
 
